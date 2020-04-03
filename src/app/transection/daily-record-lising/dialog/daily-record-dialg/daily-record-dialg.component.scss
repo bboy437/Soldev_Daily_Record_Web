@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    // min-height: 300px;
+     padding: 40px 40px 40px 40px;
+    min-width: 500px;
+    height: 700;
+
+  }
+  
+  .container > * {
+    width: 100%;
+  
+  }
+  
+  .form {
+    display: flex;
+    padding-top: 20px;
+
+
+  }
+  
+  .mat-form-field {
+    font-size: 16px;
+    flex-grow: 1;
+  }
+
+
+  // .table-container {
+  //   padding: 5px 15px 15px 15px;
+  // }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  .mat-header-cell {
+    display:flex;
+    justify-content:center;
+  }
+  
+ 
+ 
+
+  .table-header {
+    background-color: #327ebd;
+    color: white;
+   padding: 0 5px;
+     height: 45px;
+  }
+  
+
+  
+  // .mat-column-actions {
+  //   flex: 0 0 100px;
+  //   align-content: center;
+  // }
+  
+

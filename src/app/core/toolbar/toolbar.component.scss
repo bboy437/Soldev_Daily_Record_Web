@@ -1,0 +1,101 @@
+:host {
+  z-index: 4;
+}
+
+.table-header {
+  height: 65px;
+  background-color: #1f75c5;
+  color: white;
+}
+
+.main-toolbar {
+  height: 64px;
+  padding-left: 16px;
+}
+
+.more-btn {
+  height: 100%;
+  min-width: 70px;
+}
+
+.mat-icon-button {
+  margin-right: 10px;
+}
+
+.mat-select {
+  //  background-color: white;
+  // color: white;
+ font-size: 15px;
+}
+
+
+.table-container {
+  padding: 5px 15px 15px 15px;
+}
+.table-component-holder {
+  border: 1px solid #327ebd;
+  background-color: white;
+  height: auto;
+  color: white;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  color: white;
+  
+}
+
+.Hospital{
+  color: white;
+}
+
+.example-full-width {
+  color: white;
+  width: 30%;
+}
+
+.imgPlaceholder1 {
+  width: 35%;
+}
+
+.imgPlaceholder {
+  width: 50%;
+  height: auto;
+   width: auto;
+}
+
+
+
+// ::ng-deep .mat-select-value-text{
+//     color: rgba(247, 245, 245, 0.88);
+
+// }
+
+// mat-select {
+//   color: blue;
+// }
+
+
+.my-select-panel-class {
+  width:20px;
+  max-width:20px;
+  background-color: rgb(253, 251, 251);
+  color: rgb(8, 7, 6);
+  font-size: 10px;
+}
+
+.hospitalName{
+  // background-color: rgb(253, 251, 251);
+  font-size: 15px;
+  color:white;
+  width: 50vw;
+  width: 30%;
+  text-align: right
+}
+// .cdk-user-menu {
+//   width: 5%;
+
+// }
